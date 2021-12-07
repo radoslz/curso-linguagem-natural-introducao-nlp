@@ -7,6 +7,7 @@
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+/data/imdb-reviews-pt-br.csv
 
 # IPython
 profile_default/
